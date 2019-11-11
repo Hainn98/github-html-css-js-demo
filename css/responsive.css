@@ -25,6 +25,9 @@
     }
 }
 @media only screen and (max-width: 514px){
+    div#section-1 p.desc{
+        text-align: center!important;
+    }
     div#section-2 .section-title p{
         text-align: center!important;
     }
@@ -33,5 +36,10 @@
     }
     div#section-5 p.desc{
         text-align: center!important;
+    }
+}
+@media only screen and (max-width: 375px){
+    button.view-all-client {
+        padding: 8px 40px 8px 8px !important;
     }
 }
