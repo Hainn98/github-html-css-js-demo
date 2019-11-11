@@ -12,3 +12,26 @@
         margin-bottom: 20px;
     }
 }
+@media only screen and (max-width: 425px){
+    button.view-all-client {
+        padding: 8px 40px 8px 9px !important;
+    }
+    button.view-all-client i {
+        right: 13px !important;
+        top: 12px !important;
+    }
+    .wp-over-viewClient {
+        transform: translate(-50%,410%)!important;
+    }
+}
+@media only screen and (max-width: 514px){
+    div#section-2 .section-title p{
+        text-align: center!important;
+    }
+    div#section-3 p.desc{
+        text-align: center!important;
+    }
+    div#section-5 p.desc{
+        text-align: center!important;
+    }
+}
