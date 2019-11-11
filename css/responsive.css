@@ -1,0 +1,14 @@
+@media only screen and (max-width: 767px) {
+    #main-menu ul {
+       justify-content: center;
+    }
+    a.learn-more{
+        margin-bottom: 20px;
+    }
+    #section-2 .section-title{
+        margin-top:0;
+    }
+    #section-6 .wp-social{
+        margin-bottom: 20px;
+    }
+}
